@@ -6,8 +6,8 @@
 
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Testing app for accessibility
 
-This lab is focused on developing the skills to work with open source projects and to practice testing apps for accessibility features so you can make them more accessible. Go to Google Play Services, install the app [Blazon](https://play.google.com/store/apps/details?id=charlyn23.c4q.nyc.projectx&hl=en) in your device or emulator. Go to Settings
-tab in your device and enable TalkBack. Test every widget navigating around the app. Pay special attention to such widgets as `ImageButton`, `ImageView`, `CheckBox`, `EditText`.
+This lab is focused on developing the skills to work with open source projects and to practice testing apps for accessibility features so you can make them more accessible. Install the app from the included starter-code. Go to Settings
+tab in your device and enable TalkBack. Test every widget navigating around the app. Pay special attention to such widgets such as `ImageButton`, `ImageView`, `CheckBox`, `EditText`.
 
 Some notes on how to use TalkBack:
 
@@ -60,7 +60,7 @@ Included in this lab are the following:
 
 * Eight layout files to modify:
  **activity_details.xml**, **bar_chart_fragment.xml**, **custom_toast.xml**, **map_fragment.xml**,
-**pie_chart_fragment.xml**, **profile_fragment.xml**, **signup_fragment.xml**, **stats_fragment.xml**.
+**pie_chart_fragment.xml**, **signup_fragment.xml**, **stats_fragment.xml**.
 
 #### Deliverable
 
