@@ -58,7 +58,7 @@ Included in this lab are the following:
   * Sing up Fragment enables FB, Twitter and Google+ authentication.
 
 
-* Eight layout files to modify:
+* Seven layout files to modify:
  **activity_details.xml**, **bar_chart_fragment.xml**, **custom_toast.xml**, **map_fragment.xml**,
 **pie_chart_fragment.xml**, **signup_fragment.xml**, **stats_fragment.xml**.
 
