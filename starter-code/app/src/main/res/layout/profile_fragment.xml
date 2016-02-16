@@ -72,6 +72,7 @@
                     android:maxLength="4"
                     android:textColor="#000000"
                     android:textColorHint="#363636"
+                    android:contentDescription="enter age here"
                     android:focusable="true"/>
             </android.support.design.widget.TextInputLayout>
 
@@ -98,7 +99,8 @@
                 android:layout_marginTop="16dp"
                 android:text="@string/alert_detail"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content" />
+                android:layout_height="wrap_content"
+                android:contentDescription="notify when in area of high harassment"/>
 
         </LinearLayout>
 

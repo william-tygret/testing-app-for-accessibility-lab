@@ -23,7 +23,8 @@
             android:layout_weight="3"
             android:text="Filter"
             android:textStyle="bold"
-            android:textColor="@color/primary" />
+            android:textColor="@color/primary"
+            android:contentDescription="next"/>
 
         <ImageView
             android:layout_width="0dp"
@@ -50,6 +51,7 @@
                 android:layout_gravity="center_vertical"
                 android:hint="Search by location                                     "
                 android:imeOptions="actionGo"
+                android:contentDescription="search for location"
                 android:textSize="18dp"
                 android:focusable="true"/>
 

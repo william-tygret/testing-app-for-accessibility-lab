@@ -140,6 +140,7 @@
                 android:layout_weight="1"
                 android:padding="27dp"
                 android:src="@drawable/where"
+                android:contentDescription="click to see where harrassment took place"
                 />
 
             <ImageView
@@ -149,6 +150,7 @@
                 android:layout_weight="1"
                 android:padding="27dp"
                 android:src="@drawable/when"
+                android:contentDescription="click to see when harrassment happened"
                 />
 
             <ImageView
@@ -158,6 +160,7 @@
                 android:layout_weight="1"
                 android:padding="27dp"
                 android:src="@drawable/who"
+                android:contentDescription="click to see who was harassed"
                 />
 
             <ImageView
@@ -167,6 +170,7 @@
                 android:layout_weight="1"
                 android:padding="27dp"
                 android:src="@drawable/what"
+                android:contentDescription="click to see what type of harassment took place"
                 />
 
         </LinearLayout>
